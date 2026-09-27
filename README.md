@@ -1,7 +1,7 @@
-### Hi, I'm Brandon
+#### Hi, I'm Brandon
 I like building things
 
-### Tech Stack & Tools
+#### Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -25,7 +25,7 @@ I like building things
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### Connect with me
+#### Connect with me
 
 <a href="https://linkedin.com/in/brandonchu0/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://brandchu.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=Web&logoColor=white" alt="Portfolio"></a>
