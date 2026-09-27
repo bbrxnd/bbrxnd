@@ -33,8 +33,6 @@ I like building things
 
 ---
 
----
-
 ### Connect with me
 
 <a href="https://linkedin.com/in/brandonchu0/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
