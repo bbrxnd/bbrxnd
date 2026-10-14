@@ -1,6 +1,8 @@
 #### Hi, I'm Brandon
 I like building things
 
+also working on silly dance app
+
 #### Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
