@@ -1,7 +1,7 @@
 #### Hi, I'm Brandon
 I like building things
 
-also working on silly dance app
+also working on a silly dance app
 
 #### Tech Stack & Tools
 
