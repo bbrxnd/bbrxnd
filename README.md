@@ -29,5 +29,6 @@ also working on a silly dance app
 
 #### Connect with me
 
-<a href="https://linkedin.com/in/brandonchu0/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://brandchu.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=Web&logoColor=white" alt="Portfolio"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brandonchu0/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://brandchu.com)
+![Profile Views](https://komarev.com/ghpvc/?username=bbrxnd&style=for-the-badge&color=0077B5)
