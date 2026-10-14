@@ -31,4 +31,3 @@ also working on a silly dance app
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brandonchu0/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://brandchu.com)
-![Profile Views](https://komarev.com/ghpvc/?username=bbrxnd&style=for-the-badge&color=0077B5)
